@@ -1,3 +1,1 @@
 # REDES2_2S2020_Practica1_201503750
-##INSTANCIA EN EC2
-como hi
