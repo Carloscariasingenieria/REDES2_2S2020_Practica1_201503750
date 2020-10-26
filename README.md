@@ -10,4 +10,6 @@
 
 ## SERVIDOR HTTP (APACHE2)
 -Actualizamos los paquetes (sudo apt-get update)
--
+-Instalamos apache 2 (sudo apt-get install apache2)
+-Luego de crear la pagina html, se debe copiar todos los recursos necesarios a la ruta
+/var/www/html
